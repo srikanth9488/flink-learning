@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "in.olaelectric.test.protobufs";
+option java_outer_classname = "SendSMSProto";
+
+message SendSMS{
+    string tenant = 1;
+    string uuid = 2;
+    string message = 3;
+    string recipients = 4;
+}
