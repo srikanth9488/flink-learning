@@ -1,4 +1,4 @@
-package in.olaelectric.test.pojos;
+package in.flink.test.pojos;
 
 import java.io.Serializable;
 

@@ -1,6 +1,5 @@
-package in.olaelectric.test.maps;
+package in.flink.test.maps;
 
-import in.olaelectric.test.protobufs.SendSMSProto;
 import org.apache.flink.api.common.functions.RichMapFunction;
 import org.apache.flink.api.java.tuple.Tuple7;
 
